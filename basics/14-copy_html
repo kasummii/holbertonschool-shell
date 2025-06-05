@@ -1,6 +1,2 @@
 #!/bin/bash
-# Script to copy all HTML files to the parent directory, 
-# only if they don't exist or are newer than the ones in the parent.
-
-# Copy HTML files with the condition described
 cp -u *.html ../
